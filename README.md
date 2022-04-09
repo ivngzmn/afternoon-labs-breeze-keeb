@@ -1,6 +1,6 @@
 # Afternoon Labs Breeze Keyboard
 
-![Breeze]()
+![Breeze](https://raw.githubusercontent.com/ivngzmn/afternoon-labs-breeze-keeb/main/assets/7.webp)
 
 This repo contains my compiled keeb firmware.
 
